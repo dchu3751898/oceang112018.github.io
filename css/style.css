@@ -1,0 +1,124 @@
+body{
+  font: 15px/1.5 Arial, Helvetica, sans-serif;
+  padding:0;
+  margin:0;
+  background-color:#c5c6c7;
+}
+
+/*GLobal*/
+*{
+  text-decoration: none;
+}
+
+.box{
+  width: auto;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+  font-family: 'Century Gothic', sans-serif;
+  overflow: auto;
+  float: center;
+  font: 15px Arial Black, sans-serif;
+}
+
+.border{
+  width:80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.wrapper{
+  width: auto;
+  margin: 0 auto;
+}
+
+.highlight{
+  color: #66fcf1;
+  font: 55px Arial Black, sans-serif ;
+}
+
+.highlight-team{
+  color: #66fcf1;
+  font: bold;
+}
+
+.highlight-box{
+  color: white;
+  font: bold;
+}
+
+.navbox-square{
+  margin: 10px 10px 0;
+  width: calc(25% - 20px);
+  height: 230px;
+  background-color: #45A29E;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 200px;
+  color: #1F2833;
+  text-align: center;
+}
+
+.navbox-rectangle{
+  margin: 10px 10px 0;
+  width: calc(50% - 20px);
+  height: 230px;
+  background-color: #45A29E;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 100;
+  line-height: 200px;
+  color: #1F2833;
+  text-align: center;
+}
+
+.box-img{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+.accordion-content p{
+  font-size: 18px;
+  text-align: justify;
+}
+
+.accordion-content {
+  padding: 0 20px;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  max-height: 0;
+  overflow: hidden;
+}
+
+/* Header */
+header{
+  font: 20px Arial Black, sans-serif;
+  background:#1F2833;
+  color: #ffffff;
+  padding-top: 15px;
+  min-height: 100px;
+  border-bottom: #45A29E 5px solid;
+  border-top: #45A29E 5px solid;
+}
+
+button.accordion {
+  width: 100%;
+  background: #35424a;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  text-align: left;
+  padding: 15px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.2s linear;
+}
+
+button.accordion:hover {
+  background-color: #e8491d;
+}
