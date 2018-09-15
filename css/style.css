@@ -42,6 +42,28 @@ body{
   font: 15px Arial Black, sans-serif;
 }
 
+.itprofessionbox{
+  width:600px;
+  background: #35424a;
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: white;
+}
+
+.projectideabox{
+    width:600px;
+    background: #35424a;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+  }
+  
 .border{
   width:80%;
   margin: auto;
@@ -77,7 +99,7 @@ body{
   height: 230px;
   background-color: #45A29E;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 90%;
   font-weight: 100;
   line-height: 200px;
   color: #1F2833;
@@ -91,7 +113,7 @@ body{
   height: 470px;
   background-color: #45A29E;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 90%;
   font-weight: 100;
   line-height: 200px;
   color: #1F2833;
@@ -105,7 +127,7 @@ body{
   height: 230px;
   background-color: #45A29E;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 90%;
   font-weight: 100;
   line-height: 200px;
   color: #1F2833;
@@ -122,8 +144,8 @@ body{
 
 .box-img{
   border-radius: 50%;
-  width: 160px;
-  height: 160px;
+  width: 11%;
+  height: 11%;
   margin: 10px;
   float: center;
 }
