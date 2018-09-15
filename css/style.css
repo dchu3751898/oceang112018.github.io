@@ -53,6 +53,17 @@ body{
   color: white;
 }
 
+.industrydatabox{
+  width:600px;
+  background: #35424a;
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: white;
+}
+
 .projectideabox{
     width:600px;
     background: #35424a;
@@ -63,7 +74,7 @@ body{
     margin-bottom: 5%;
     color: white;
   }
-  
+
 .border{
   width:80%;
   margin: auto;
