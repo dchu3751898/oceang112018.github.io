@@ -51,6 +51,7 @@ body{
   margin-top: 5%;
   margin-bottom: 5%;
   color: white;
+  font-size: 16px;
 }
 
 .industrydatabox{
@@ -62,6 +63,7 @@ body{
   margin-top: 5%;
   margin-bottom: 5%;
   color: white;
+  font-size: 16px;
 }
 
 .projectideabox{
@@ -73,6 +75,22 @@ body{
     margin-top: 5%;
     margin-bottom: 5%;
     color: white;
+    font-size: 16px;
+  }
+
+  .projectideabox h1{
+    font-size: 25px;
+  }
+
+  .reference-links:hover{
+    font-size: 18px;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+
+  .reference-links{
+    font-size: 18px;
+    margin-top: 5px;
   }
 
 .border{
@@ -101,6 +119,16 @@ body{
 
 .highlight-box{
   color: white;
+  font: bold;
+}
+
+.highlight-itprofession{
+  color: #45A29E;
+  font: bold;
+}
+
+.highlight-itsolution{
+  color: #45A29E;
   font: bold;
 }
 
