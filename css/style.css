@@ -42,6 +42,57 @@ body{
   font: 15px Arial Black, sans-serif;
 }
 
+.itprofessionbox{
+  width:600px;
+  background: #35424a;
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: white;
+  font-size: 16px;
+}
+
+.industrydatabox{
+  width:600px;
+  background: #35424a;
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  color: white;
+  font-size: 16px;
+}
+
+.projectideabox{
+    width:600px;
+    background: #35424a;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    font-size: 16px;
+  }
+
+  .projectideabox h1{
+    font-size: 25px;
+  }
+
+  .reference-links:hover{
+    font-size: 18px;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+
+  .reference-links{
+    font-size: 18px;
+    margin-top: 5px;
+  }
+
 .border{
   width:80%;
   margin: auto;
@@ -71,13 +122,23 @@ body{
   font: bold;
 }
 
+.highlight-itprofession{
+  color: #45A29E;
+  font: bold;
+}
+
+.highlight-itsolution{
+  color: #45A29E;
+  font: bold;
+}
+
 .navbox-square{
   margin: 10px 10px 0;
   width: calc(25% - 20px);
   height: 230px;
   background-color: #45A29E;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 90%;
   font-weight: 100;
   line-height: 200px;
   color: #1F2833;
@@ -91,7 +152,7 @@ body{
   height: 470px;
   background-color: #45A29E;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 90%;
   font-weight: 100;
   line-height: 200px;
   color: #1F2833;
@@ -105,7 +166,7 @@ body{
   height: 230px;
   background-color: #45A29E;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 90%;
   font-weight: 100;
   line-height: 200px;
   color: #1F2833;
@@ -122,8 +183,8 @@ body{
 
 .box-img{
   border-radius: 50%;
-  width: 160px;
-  height: 160px;
+  width: 11%;
+  height: 11%;
   margin: 10px;
   float: center;
 }
